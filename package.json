@@ -1,0 +1,27 @@
+{
+  "name": "prjctr-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bemto.pug": "^2.1.0",
+    "browser-sync": "^2.24.4",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-stylus": "^2.7.0",
+    "gulp-svg-sprites": "^4.1.2",
+    "imagemin-pngquant": "^5.1.0",
+    "del": "^3.0.0"
+  },
+  "dependencies": {}
+}
